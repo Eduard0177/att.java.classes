@@ -44,6 +44,7 @@ public class Livro {
         System.out.println("Título " + titulo);
         System.out.println("Autor " + autor);
         System.out.println("Ano de Publicação " + anoPub);
+        System.out.println();
     }
 
 }
